@@ -25,7 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🏢 [HR Analysis](https://github.com/AtilaKzlts/PortfolioSource/blob/main/HR_Analysis/exp.ipynb) | Data Wrangling & EDA | Based on a thorough examination of the internal HR dataset, our workforce profile reveals key insights spanning demographic distribution, departmental composition, educational background, marital status, and prominent job roles. 
 | 🏡 [Property Sales](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Property/property_eda.ipynb) | Data Wrangling & EDA | In this analysis, we have analysed the real estate dataset and uncovered interesting findings on a variety of topics ranging from the relationships between property characteristics and prices to preferred property types. This summary provides a brief introduction to the real estate market overview.
 | 🕢 [Minimum Daily Temperatures EDA](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Temp%20Time%20Series%20EDA/temp_eda.ipynb) | Time-series analysis | On this notebook, we observed distributions, outliers, values, lag graphs and autocorrelation on a minimum temperature data set.
-| 💱 [Fred API](https://github.com/AtilaKzlts/PortfolioSource/blob/main/FreedApi/time_series.ipynb) | API, Time-series analysis | In this study, we examined and compared unemployment, participation and inflation values using fred api. we tried to make sense of the results
+| 💱 [Finance Analysis](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Finance%20EDA/app2.ipynb) | API, Time-series analysis | I tried to make technical analysis and amateur comments for the oil company BP, focusing on the year 2023.
 
 # Tableau
 
