@@ -34,4 +34,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🛍️ [Super Store Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/SuperStoreDashboard_17035970861810/Dashboard1?publish=yes) |*| 
 | 🏢 [HR Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/HRDashboard_17029048156910/Dashboard2?publish=yes) |*|
 
+---------------------------------------------------------------------
+## Micro Project
+-
+-
+-
+-
 
