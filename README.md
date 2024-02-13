@@ -32,8 +32,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Dashboard Link | Project Description |
 |---|---|
-| 🛍️ [Super Store Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/SuperStoreDashboard_17035970861810/Dashboard1?publish=yes) |*| 
-| 🏢 [HR Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/HRDashboard_17029048156910/Dashboard2?publish=yes) |*|
+| 🌐 [The Unicorns](https://public.tableau.com/app/profile/atilla.kiziltas/viz/The_Unicorns/Dashboard1) |Unicorn venture refers to ventures worth more than 1 billion dollars. In this dashboard, we have visualised entrepreneurs and investors between 2011-2022.| 
+| 📲 [E-Commerce](https://public.tableau.com/app/profile/atilla.kiziltas/viz/e-commerce_17078405040010/Dashboard) |This e-commerce dashboard displays a range of metrics, KPIs and other data to highlight trends, anomalies and insights into online store performance.|
+| 👟 [Adidas Sales ](https://public.tableau.com/app/profile/atilla.kiziltas/viz/AddiasUsasales/Dashboard1) |This Adidas sales board contains a detailed and categorised display of its sales in the United States|
 
 ---------------------------------------------------------------------
 ## Micro Project
