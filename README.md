@@ -36,10 +36,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 📲 [E-Commerce](https://public.tableau.com/app/profile/atilla.kiziltas/viz/e-commerce_17078405040010/Dashboard1#1)|This e-commerce dashboard displays a range of metrics, KPIs and other data to highlight trends, anomalies and insights into online store performance.|
 | 👟 [Adidas Sales ](https://public.tableau.com/app/profile/atilla.kiziltas/viz/AddiasUsasales/Dashboard1)|This Adidas sales board contains a detailed and categorised display of its sales in the United States|
 
----------------------------------------------------------------------
-## Micro Project
--
--
--
--
+
 
