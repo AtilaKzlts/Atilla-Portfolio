@@ -3,18 +3,11 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ## 📚 Table of Contents
-- [SQL](#sql)
+
 - [Python](#python)
+- [SQL](#sql)
 - [Tableau](#tableau)
 
-# SQL
-
-| Project Link | Project Description | 
-|---|---|
-| 💡 [Global Missing Migrants](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Migrants/sqlEda.ipynb) | This report explores migration incidents, shedding light on patterns and statistics during a specific period. From incident types to the origins of migrants, it offers a concise overview of the complexities surrounding migration | 
-| 🍻 [Pubs](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Pubs-Eda/sql.ipynb)  |In this study we will answer some business intelligence questions data set source : https://www.steeldata.org.uk/sql5.html |  
-| 🤹 [Customer Insights](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Customer-Insign/analysis.ipynb) | In this study, we will get general information about our customers and answer some business intelligence questions
-***
 
 # Python
 
@@ -27,6 +20,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🏡 [Property Sales](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Property/property_eda.ipynb) | Data Wrangling & EDA | In this analysis, we have analysed the real estate dataset and uncovered interesting findings on a variety of topics ranging from the relationships between property characteristics and prices to preferred property types. This summary provides a brief introduction to the real estate market overview.
 | 🕢 [Minimum Daily Temperatures EDA](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Temp%20Time%20Series%20EDA/temp_eda.ipynb) | Time-series analysis | On this notebook, we observed distributions, outliers, values, lag graphs and autocorrelation on a minimum temperature data set.
 | 💱 [Finance Analysis](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Finance%20EDA/app2.ipynb) | API, Time-series analysis | I tried to make technical analysis and amateur comments for the oil company BP, focusing on the year 2023.
+
+# SQL
+
+| Project Link | Project Description | 
+|---|---|
+| 💡 [Global Missing Migrants](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Migrants/sqlEda.ipynb) | This report explores migration incidents, shedding light on patterns and statistics during a specific period. From incident types to the origins of migrants, it offers a concise overview of the complexities surrounding migration | 
+| 🍻 [Pubs](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Pubs-Eda/sql.ipynb)  |In this study we will answer some business intelligence questions data set source : https://www.steeldata.org.uk/sql5.html |  
+| 🤹 [Customer Insights](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Customer-Insign/analysis.ipynb) | In this study, we will get general information about our customers and answer some business intelligence questions
+***
 
 # Tableau
 
