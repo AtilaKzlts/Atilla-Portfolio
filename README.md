@@ -25,8 +25,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | 
 |---|---|
-| 💡 [Global Missing Migrants](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Migrants/sqlEda.ipynb) | This report explores migration incidents, shedding light on patterns and statistics during a specific period. From incident types to the origins of migrants, it offers a concise overview of the complexities surrounding migration | 
 | 🏪 [E-Commerce](https://github.com/AtilaKzlts/PortfolioSource/blob/main/E-Commerce/script.ipynb)  |This study aims to analyse market trends and customer behaviour by examining a large e-commerce dataset.|  
+| 💡 [Global Missing Migrants](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Migrants/sqlEda.ipynb) | This report explores migration incidents, shedding light on patterns and statistics during a specific period. From incident types to the origins of migrants, it offers a concise overview of the complexities surrounding migration | 
 | 🤹 [Customer Insights](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Customer-Insign/analysis.ipynb) | In this study, we will get general information about our customers and answer some business intelligence questions
 ***
 
