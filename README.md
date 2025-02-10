@@ -1,6 +1,12 @@
-# 👨🏻‍💻 Atilla`s Portfolio
+![image](https://github.com/AtilaKzlts/Call-Center-Automation/blob/main/assets/bar.png)
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+<div align="center">
+  <h1>Atilla`s Portfolio</h1>
+ <p>Welcome to my data portfolio! Here, I document a summary of my projects in the data field.</p>
+</div>
+
+
+
 
 ## 📚 Table of Contents
 
