@@ -5,6 +5,31 @@
  <p> Welcome to my <b>Data Analysis</b> portfolio!</p>
 </div>
 
+<div align="center">
+
+  <table>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+    <tr>
+      <td><b> ▪ Python</b></td>
+      <td><b> ▪ SQL (PostgreSQL, SQL Server)</b></td>
+    </tr>
+    <tr>
+      <td><b> ▪ Tableau & Tableau Prep</b></td>
+      <td><b> ▪ Apache Airflow</b></td>
+    </tr>
+    <tr>
+      <td><b> ▪ Apache Spark</b></td>
+      <td><b> ▪ Familiarity with AWS</b></td>
+    </tr>
+    <tr>
+      <td><b> ▪ Statistics</b></td>
+      <td><b> ▪ Reporting</b></td>
+    </tr>
+  </table>
+</div>
 
 
 
