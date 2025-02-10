@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Atilla`s Portfolio</h1>
- <p>Welcome to my data portfolio!</p>
+ <p> Welcome to my <b>Data Analysis</b> portfolio!</p>
 </div>
 
 
