@@ -8,33 +8,32 @@
 
 
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Python](#python)
 - [SQL](#sql)
 - [Tableau](#tableau)
 
-
 # Python
 
 | Project Link | Area | Project Description 
 |---|---|---
-| ⚖️ [A/B Test ](https://github.com/AtilaKzlts/PortfolioSource/blob/main/AB%20Test/facebook.ipynb) | Hypothesis test, Statistics | Preference analysis of two different advertising campaigns
-| 🛍️ [Super Market](https://github.com/AtilaKzlts/PortfolioSource/blob/main/SuperMarket/eda.ipynb) |  EDA & Hypothesis testing | In this analysis, we believe that we have taken an important step towards answering some questions and examining a possible relationship between discount and profit, which is the main objective of the project. This study will help us better understand Super Store's business strategies and support future decisions.    
-| 🏢 [HR Analysis](https://github.com/AtilaKzlts/PortfolioSource/blob/main/HR_Analysis/exp.ipynb) | Data Wrangling & EDA | Based on a thorough examination of the internal HR dataset, our workforce profile reveals key insights spanning demographic distribution, departmental composition, educational background, marital status, and prominent job roles. 
-| 👩🏻‍💻 [IT Survey](https://github.com/AtilaKzlts/PortfolioSource/blob/main/IT%20Survey%20EDA/app.ipynb) | EDA | In this comprehensive analysis of the 2020 survey data, we delve into key demographic insights, salary trends, and workplace dynamics within the tech industry. The findings shed light on prominent patterns, offering valuable perspectives on gender distribution, age demographics, salary variations across different positions, and more. 
-| 🏡 [Property Sales](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Property/property_eda.ipynb) | Data Wrangling & EDA, Time-series analysis| In this analysis, we have analysed the real estate dataset and uncovered interesting findings on a variety of topics ranging from the relationships between property characteristics and prices to preferred property types. This summary provides a brief introduction to the real estate market overview.
-| 🧑🏻‍🎓 [Student Performance Indicator](https://github.com/AtilaKzlts/PortfolioSource/blob/main/StudentPerformance/app.ipynb) | Data Wrangling & EDA  | This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
-| 💱 [Finance Analysis](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Finance%20EDA/app2.ipynb) | API, Time-series analysis | I tried to make technical analysis and amateur comments for the oil company BP, focusing on the year 2023.
+| [Finance Application Complaints](https://github.com/AtilaKzlts/Finance-Application-Complaints) | Hypothesis test, Statistics |  Project focuses on analysing finance-related complaints in our application. In this context, exploratory analyses will be performed on complaints and answers to some business intelligence questions will be sought. potential trends, seasonalities and possible relationships between categorical variables are investigated.
+| [Information Technologies Survey Analysis](https://github.com/AtilaKzlts/IT-Survey) |  EDA & Hypothesis testing |  2020 IT Industry Survey: Examining demographics, salary trends, and workplace dynamics among technology professionals, we used Multidimensional Category Analysis (MCA) to delve deeper into the latent relationships and interactions between categorical variables. The findings reveal key parameters such as gender distribution, age demographics, and salary differences between different positions, as well as complex linkages between variables, providing industry insights. 
+| [Monthly Performance Dashboard](https://github.com/AtilaKzlts/Call-Center-Automation) | Data Wrangling & EDA |  The objective of this project is to extract data from an AWS S3 bucket using Python, write the data to a PostgreSQL database, and create a dashboard in Tableau to visualize this data. The dashboard will be updated automatically every month.
+| [HR Data Analysis for Attrition](https://github.com/AtilaKzlts/HR-Data-Analysis-Forecasting-for-Attrition) | EDA |  This study aims to identify the causes of employee turnover and solutions to address these causes. Understanding employee turnover and developing solutions is critical to the sustainable success of companies. By analyzing the in-house HR dataset, basic information such as demographic distribution, departmental composition, education level, marital status and job roles are revealed. In addition, hypothesis testing and forecasting models were used to analyze the factors affecting employee turnover and predict turnover. These findings provide the basis for strategic decisions to reduce turnover.
+| [Wholesaler Weekday&Weekend Sales Analysis](https://github.com/AtilaKzlts/Wholesaler-Analysis) | Data Wrangling & EDA, Time-series analysis |  Project aims to analyze the differences between weekday and weekend sales of our wholesale company in 2024. Analyses will be conducted on the distribution of sales, performance differences by category, and annual sales trends of key products on weekdays and weekends. Using statistical tests and visualizations, it is aimed to find out which products and categories are more in demand on weekdays or weekends and to take the necessary steps
+| [UK Application analysis](https://github.com/AtilaKzlts/Application-Analyis) | Data Wrangling & EDA  |  The aim of this study is to analyze and visualize job applications from the southern region of the United Kingdom. the analysis will cover topics such as position distribution, gender distribution, role distribution, experience levels and desired salary distribution. it is aimed to create an idea about the location of the new office to be opened.
+| [AB Test for New Design](https://github.com/AtilaKzlts/AB-Test) | API, Time-series analysis |  Our client has been using the same design for a long time and is considering switching to a new design. They are looking for insight into whether this new method can deliver a higher return compared to the old one.
 
 # SQL
 
 | Project Link | Project Description | 
 |---|---|
-| 🏪 [E-Commerce](https://github.com/AtilaKzlts/PortfolioSource/blob/main/E-Commerce/script.ipynb)  |This study aims to analyse market trends and customer behaviour by examining a large e-commerce dataset.|  
-| 💡 [Global Missing Migrants](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Migrants/sqlEda.ipynb) | This report explores migration incidents, shedding light on patterns and statistics during a specific period. From incident types to the origins of migrants, it offers a concise overview of the complexities surrounding migration | 
-| 🤹 [Customer Insights](https://github.com/AtilaKzlts/PortfolioSource/blob/main/Customer-Insign/analysis.ipynb) | In this study, we will get general information about our customers and answer some business intelligence questions
-| 🎯 [Customer Targeting](https://github.com/AtilaKzlts/Insurance_customer_targeting) | In this study, we will get general information about our customers and answer some business intelligence questions
+| [Target Marketing for Insurance Company](https://github.com/AtilaKzlts/Target-Marketing)  |  The aim of this project is to analyse the insurance company's customer data to design more accurate targeting and personalised marketing campaigns. Customer segmentation will be performed to better understand the existing customer base and segment-specific strategies will be developed. Particular emphasis will be placed on age groups, estimated salary and tenure.
+| []() |  
+| []() |  
+| []() |  
 
 ***
 
@@ -42,9 +41,8 @@
 
 | Dashboard Link | Project Description 
 |---|---
-| 🌐 [The Unicorns](https://public.tableau.com/app/profile/atilla.kiziltas/viz/The_Unicorns/Dashboard1)|Unicorn venture refers to ventures worth more than 1 billion dollars. In this dashboard, we have visualised entrepreneurs and investors between 2011-2022.| 
-| 📲 [E-Commerce](https://public.tableau.com/app/profile/atilla.kiziltas/viz/e-commerce_17078405040010/Dashboard1#1)|This e-commerce dashboard displays a range of metrics, KPIs and other data to highlight trends, anomalies and insights into online store performance.|
-| 👟 [Adidas Sales ](https://public.tableau.com/app/profile/atilla.kiziltas/viz/AddiasUsasales/Dashboard1)|This Adidas sales board contains a detailed and categorised display of its sales in the United States|
-
+| [Marketing Performance Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/bol_kpi/Dashboard2) |  
+| [E-Commerce Yearly Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/e-commerce_17078405040010/Dashboard1) |  
+| [Unicorn Company](https://public.tableau.com/app/profile/atilla.kiziltas/viz/financel_deneme/Dashboard2) |  
 
 
