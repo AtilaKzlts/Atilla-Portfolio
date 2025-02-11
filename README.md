@@ -30,7 +30,7 @@
 - [Tableau](#tableau)
 
 # Python
-
+*Click title to see details*
 | Project Link | Area | Project Description 
 |---|---|---
 | [Finance Application Complaints](https://github.com/AtilaKzlts/Finance-Application-Complaints) | EDA, Times Series, Hypothesis testing, MCA  |  Project focuses on analysing finance-related complaints in our application. In this context, exploratory analyses will be performed on complaints and answers to some business intelligence questions will be sought. potential trends, seasonalities and possible relationships between categorical variables are investigated.
@@ -42,7 +42,7 @@
 | [AB Test for New Design](https://github.com/AtilaKzlts/AB-Test) | Hypothesis testing, Marketing |  Our client has been using the same design for a long time and is considering switching to a new design. They are looking for insight into whether this new method can deliver a higher return compared to the old one.
 
 # SQL
-
+*Click title to see details*
 | Project Link | Project Description | 
 |---|---|
 | [Target Marketing for Insurance Company](https://github.com/AtilaKzlts/Target-Marketing)  |  The aim of this project is to analyse the insurance company's customer data to design more accurate targeting and personalised marketing campaigns. Customer segmentation will be performed to better understand the existing customer base and segment-specific strategies will be developed. Particular emphasis will be placed on age groups, estimated salary and tenure.
@@ -53,7 +53,7 @@
 ***
 
 # Tableau
-
+*Click title to see dashboard*
 | Dashboard Link |  Description 
 |---|---
 | [Marketing Performance Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/bol_kpi/Dashboard2) |  It is an analytical dashboard that comprehensively shows the company's marketing performance with kpi, metrics and graphs.
