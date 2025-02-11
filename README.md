@@ -1,9 +1,5 @@
-![image](https://github.com/AtilaKzlts/Call-Center-Automation/blob/main/assets/bar.png)
+![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/readme.png)
 
-<div align="center">
-  <h1>Atilla`s Portfolio</h1>
- <p> Welcome to my <b>Data Analysis</b> portfolio!</p>
-</div>
 
 <div align="center">
 
