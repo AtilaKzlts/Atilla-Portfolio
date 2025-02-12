@@ -16,7 +16,7 @@
       <td><b>▪ Familiarity with AWS</b></td>
     </tr>
     <tr>
-      <td><b>▪ Statistics</b></td>
+      <td><b>▪ Statistical Analysis & Hypothesis Testing</b></td>
       <td><b>▪ ETL</b></td>
     </tr>
   </table>
