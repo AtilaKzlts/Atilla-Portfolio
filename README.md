@@ -46,7 +46,7 @@
 | Project Link | Project Description | 
 |---|---|
 | [Target Marketing for Insurance Company](https://github.com/AtilaKzlts/Target-Marketing)  |  The aim of this project is to analyse the insurance company's customer data to design more accurate targeting and personalised marketing campaigns. Customer segmentation will be performed to better understand the existing customer base and segment-specific strategies will be developed. Particular emphasis will be placed on age groups, estimated salary and tenure.
-| []() |  
+| [Club-Members Data Cleaning](https://github.com/AtilaKzlts/SQL-Cleaner/tree/main) |  In this study, our aim is to clean our club membership table in our PostgreSQL database and make it ready for analysis.
 | []() |  
 | []() |  
 
