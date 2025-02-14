@@ -59,6 +59,6 @@
 | [Marketing Performance Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/bol_kpi/Dashboard2) |  It is an analytical dashboard that comprehensively shows the company's marketing performance with kpi, metrics and graphs.
 | [E-Commerce Yearly Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/e-commerce_17078405040010/Dashboard1) | This dashboard provides a comprehensive view of yearly e-commerce performance metrics and product analytics. 
 | [Unicorn Company](https://public.tableau.com/app/profile/atilla.kiziltas/viz/financel_deneme/Dashboard2) |  For investors, the industries of unicorn companies, the countries they are located in, their financial statuses, and their developments over time are presented.
-| [Financial Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/financel_deneme/Dashboard2) |  A dashboard containing graphs such as profit, loss, quantity, monthly sales, and product-specific summaries for a newly established wholesaler that has just completed its first year.
+| [Financial Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/financel_deneme/en_yen?publish=yes) |  A dashboard containing graphs such as profit, loss, quantity, monthly sales, and product-specific summaries for a newly established wholesaler that has just completed its first year.
 
 
