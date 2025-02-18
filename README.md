@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td><b>▪ Statistical Analysis & Hypothesis Testing</b></td>
-      <td><b>▪ ETL</b></td>
+      <td><b>▪ ETL & Automation</b></td>
     </tr>
   </table>
 </div>
