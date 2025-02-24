@@ -45,9 +45,9 @@
 *Click title to see details*
 | Project Link | Project Description | 
 |---|---|
-| [Target Marketing for Insurance Company](https://github.com/AtilaKzlts/Target-Marketing)  |  The aim of this project is to analyse the insurance company's customer data to design more accurate targeting and personalised marketing campaigns. Customer segmentation will be performed to better understand the existing customer base and segment-specific strategies will be developed. Particular emphasis will be placed on age groups, estimated salary and tenure.
 | [Club-Members Data Cleaning](https://github.com/AtilaKzlts/SQL-Cleaner/tree/main) |  In this study, our aim is to clean our club membership table in our PostgreSQL database and make it ready for analysis.
 | [RFM Analyis](https://github.com/AtilaKzlts/RFM-SQL) |  In this project, we use the RFM (Recency, Frequency, Monetary) model to analyze customer behavior using customer data from our PostgreSQL database. The goal is to make quick decisions regarding recommendations by segmenting customers based on three key metrics
+| [Target Marketing for Insurance Company](https://github.com/AtilaKzlts/Target-Marketing)  |  The aim of this project is to analyse the insurance company's customer data to design more accurate targeting and personalised marketing campaigns. Customer segmentation will be performed to better understand the existing customer base and segment-specific strategies will be developed. Particular emphasis will be placed on age groups, estimated salary and tenure.
 
 ***
 
