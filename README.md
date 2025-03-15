@@ -9,18 +9,23 @@
     </tr>
     <tr>
       <td><b>▪ Tableau & Looker</b></td>
-      <td><b>▪ Apache Airflow</b></td>
+      <td><b>▪ Google Analytics & BigQuery</b></td>
     </tr>
     <tr>
       <td><b>▪ SQL (PostgreSQL, SQL Server) </b></td>
-      <td><b>▪ Statistical Analysis & Hypothesis Testing</b></td>
+      <td><b>▪ DBT</b></td>
+    </tr>
+    <tr>
+      <td><b>▪ Apache Airflow</b></td>
+      <td><b>▪ ETL & Automation</b></td>
     </tr>
     <tr>
       <td><b>▪ AWS & Snowflake </b></td>
-      <td><b>▪ ETL & Automation</b></td>
+      <td><b>▪ Statistical Analysis & Hypothesis Testing</b></td>
     </tr>
   </table>
 </div>
+
 
 
 ## Table of Contents
