@@ -8,7 +8,7 @@
       <td><b>▪ SQL (PostgreSQL, SQL Server)</b></td>
     </tr>
     <tr>
-      <td><b>▪ Tableau & Tableau Prep, Looker</b></td>
+      <td><b>▪ Tableau & Looker</b></td>
       <td><b>▪ Apache Airflow</b></td>
     </tr>
     <tr>
