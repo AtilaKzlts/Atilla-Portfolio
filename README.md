@@ -5,18 +5,18 @@
   <table>
     <tr>
       <td><b>▪ Python</b></td>
-      <td><b>▪ SQL (PostgreSQL, SQL Server)</b></td>
+      <td><b>▪ Apache Spark </b></td>
     </tr>
     <tr>
       <td><b>▪ Tableau & Looker</b></td>
       <td><b>▪ Apache Airflow</b></td>
     </tr>
     <tr>
-      <td><b>▪ Apache Spark</b></td>
-      <td><b>▪ Familiarity with AWS & Snowflake</b></td>
+      <td><b>▪ SQL (PostgreSQL, SQL Server) </b></td>
+      <td><b>▪ Statistical Analysis & Hypothesis Testing</b></td>
     </tr>
     <tr>
-      <td><b>▪ Statistical Analysis & Hypothesis Testing</b></td>
+      <td><b>▪ AWS & Snowflake </b></td>
       <td><b>▪ ETL & Automation</b></td>
     </tr>
   </table>
