@@ -8,7 +8,7 @@
       <td><b>▪ Apache Spark </b></td>
     </tr>
     <tr>
-      <td><b>▪ Tableau & Looker</b></td>
+      <td><b>▪ Tableau & Looker & QuickSight</b></td>
       <td><b>▪ Google Analytics & BigQuery</b></td>
     </tr>
     <tr>
