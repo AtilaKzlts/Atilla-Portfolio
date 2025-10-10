@@ -39,7 +39,7 @@
 | [Target Marketing for Insurance Company](https://github.com/AtilaKzlts/Target-Marketing)  |  PostgreSQL|The aim of this project is to analyse the insurance company's customer data to design more accurate targeting and personalised marketing campaigns. Customer segmentation will be performed to better understand the existing customer base and segment-specific strategies will be developed. Particular emphasis will be placed on 
 | [Marketing Performance Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/MarketingPerformance_17402349899520/Dashboard2) | Tableau | It is an analytical dashboard that comprehensively shows the company's marketing performance with kpi, metrics and graphs.
 | [Admin Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/AdminDashboard-ELT/Dashboard1) |Tableau | This dashboard provides a comprehensive admin panel to track daily e-commerce KPIs.
-| [E-Commerce Yearly Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/e-commerce_17078405040010/Dashboard1) | Tableau |This dashboard provides a comprehensive view of yearly e-commerce performance metrics and product analytics. 
+| [E-Commerce Yearly Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/e-commerce_17078405040010/Dashboard1) | Tableau|This dashboard provides a comprehensive view of yearly e-commerce performance metrics and product analytics. 
 
 
 
