@@ -29,7 +29,7 @@
 
 
 *Click title to see details*
-| Project Link | Tools & Fields| Project Description 
+| 🔗 Project Link | Tools & Fields| Project Description 
 |---|---|---
 | [Automated ELT Pipeline for E-commerce Analytics](https://github.com/AtilaKzlts/ELT-Pipeline) | Airflow, Snowflake, AWS S3, dbt, Tableau |  Designed and implemented a fully automated ELT data pipeline for a small e-commerce company, aiming to replace manual daily reporting workflows. Core datasets including customers, orders, and products are ingested from AWS S3 into Snowflake, transformed using dbt, and visualized through Tableau dashboards. The pipeline runs daily via Airflow and includes logging, data freshness monitoring, and email alerting for failures.
 | [AWS End-to-End Data Analytics for SaaS](https://github.com/AtilaKzlts/SaaS/tree/main) | AWS Glue, Athena, S3, QuickSight, Airbyte, CloudWatch| Built a scalable AWS data lakehouse using S3, Glue, Athena, and QuickSight with automated Airbyte ingestion and CloudWatch monitoring. Implemented partitioned storage strategy and ETL workflows for processing 30K+ behavioral events across 2,600+ users. Designed complex analytical SQL queries to diagnose bottlenecks across the conversion funnel. Findings uncovered platform-specific performance issues causing 48% user drop-off, enabling an actionable roadmap for $42K+ revenue recovery.
