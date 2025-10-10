@@ -1,4 +1,4 @@
-![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/readme.png)
+![image](https://github.com/AtilaKzlts/ELT-Pipeline/blob/main/assets/Atilla-Portf.png)
 
 <div align="center">
   <h4>Tools & Technologies 🛠 </h4>
