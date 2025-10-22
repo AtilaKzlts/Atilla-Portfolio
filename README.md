@@ -4,24 +4,20 @@
   <h4>Tools & Technologies 🛠 </h4>
   <table>
     <tr>
-      <td><b>▪ Python</b></td>
-      <td><b>▪ Apache Spark </b></td>
+      <td><b>■ Python </b></td>
+      <td><b>■ Tableau | Looker | QuickSight  </b></td>
     </tr>
     <tr>
-      <td><b>▪ Tableau & Looker & QuickSight</b></td>
-      <td><b>▪ Google Analytics & BigQuery</b></td>
+      <td><b>■ SQL (PostgreSQL, SQL Server, BigQuery) </b></td>
+      <td><b>■ DBT  </b></td>
     </tr>
     <tr>
-      <td><b>▪ SQL (PostgreSQL, SQL Server) </b></td>
-      <td><b>▪ DBT</b></td>
+      <td><b>■ Apache Airflow</b></td>
+      <td><b>■ Apache Spark</b></td>
     </tr>
     <tr>
-      <td><b>▪ Apache Airflow</b></td>
-      <td><b>▪ ETL & ELT </b></td>
-    </tr>
-    <tr>
-      <td><b>▪ AWS & Snowflake </b></td>
-      <td><b>▪ Statistical Analysis & Automation</b></td>
+      <td><b>■ Google Analytics</b></td>
+      <td><b>■ AWS & Snowflake </b></td>
     </tr>
   </table>
 </div>
