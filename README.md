@@ -1,27 +1,31 @@
 ![image](https://github.com/AtilaKzlts/ELT-Pipeline/blob/main/assets/Atilla-Portf.png)
-
 <div align="center">
-  <h4>Tools & Technologies 🛠 </h4>
-  <table>
-    <tr>
-      <td><b>■ Python </b></td>
-      <td><b>■ Tableau | Looker | QuickSight  </b></td>
-    </tr>
-    <tr>
-      <td><b>■ SQL (PostgreSQL, SQL Server, BigQuery) </b></td>
-      <td><b>■ DBT  </b></td>
-    </tr>
-    <tr>
-      <td><b>■ Apache Airflow</b></td>
-      <td><b>■ Apache Spark</b></td>
-    </tr>
-    <tr>
-      <td><b>■ Google Analytics</b></td>
-      <td><b>■ AWS & Snowflake </b></td>
-    </tr>
-  </table>
+    <div class="skills-list">
+        <h4>Tools & Technologies 🛠</h4>
+        <table>
+            <tr>
+                <td><b>▪ Python</b></td>
+                <td><b>▪ Apache Spark</b></td>
+            </tr>
+            <tr>
+                <td><b>▪ Tableau & Looker & QuickSight</b></td>
+                <td><b>▪ Google Analytics & BigQuery</b></td>
+            </tr>
+            <tr>
+                <td><b>▪ SQL (PostgreSQL, SQL Server)</b></td>
+                <td><b>▪ DBT</b></td>
+            </tr>
+            <tr>
+                <td><b>▪ Apache Airflow</b></td>
+                <td><b>▪ Airbyte(ETL & ELT)</b></td>
+            </tr>
+            <tr>
+                <td><b>▪ AWS & Snowflake</b></td>
+                <td><b>▪ Statistical Analysis & Automation</b></td>
+            </tr>
+        </table>
+    </div>
 </div>
-
 
 *Click title to see details*
 | 🔗 Project Link| Tools & Fields | Target/Goal | Project Description |
