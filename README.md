@@ -17,11 +17,11 @@
     </tr>
     <tr>
       <td><b>▪ Apache Airflow</b></td>
-      <td><b>▪ ETL & Automation</b></td>
+      <td><b>▪ ETL & ELT </b></td>
     </tr>
     <tr>
       <td><b>▪ AWS & Snowflake </b></td>
-      <td><b>▪ Statistical Analysis & Hypothesis Testing</b></td>
+      <td><b>▪ Statistical Analysis & Automation</b></td>
     </tr>
   </table>
 </div>
