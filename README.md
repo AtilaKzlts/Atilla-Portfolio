@@ -4,7 +4,7 @@
         <h4>Tools & Technologies 🛠</h4>
         <table>
             <tr>
-                <td><b>▪ Python</b></td>
+                <td><b>▪ Python, R</b></td>
                 <td><b>▪ Apache Spark</b></td>
             </tr>
             <tr>
@@ -21,7 +21,7 @@
             </tr>
             <tr>
                 <td><b>▪ AWS & Snowflake</b></td>
-                <td><b>▪ Statistical Analysis & Automation</b></td>
+                <td><b>▪ Statistical Analysis(A/B Tests) & Automation</b></td>
             </tr>
         </table>
     </div>
