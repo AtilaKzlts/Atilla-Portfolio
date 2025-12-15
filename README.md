@@ -8,7 +8,7 @@
                 <td><b>▪ Apache Spark</b></td>
             </tr>
             <tr>
-                <td><b>▪ Tableau & Looker & QuickSight</b></td>
+                <td><b>▪ Tableau & Looker & QuickSight & PowerBi</b></td>
                 <td><b>▪ Google Analytics & BigQuery</b></td>
             </tr>
             <tr>
@@ -40,4 +40,4 @@
 | [Marketing Performance Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/MarketingPerformance_17615868598940/Dashboard2) | Tracking, KPI (Acquisition Cost, Conversion Rate) | **Monitor Real-Time Return on Marketing Investment (ROI)** | An analytical **Tableau dashboard** that comprehensively shows the company's marketing performance with key performance indicators (KPIs), metrics, and graphs. |
 | [E-Commerce Yearly Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/E-CommerceYearlyDashboard/Dashboard1) | Sales Metrics, Most Profitable Products, AOV | **Conduct Detailed Analysis of Annual Performance and Profitable Products** | A dashboard providing a comprehensive view of yearly e-commerce sales performance metrics and product analytics (e.g., most profitable products, Average Order Value). |
 
-
+[**Click For CV**](https://github.com/AtilaKzlts/SaaS/blob/main/assets/atila_kiziltas_cv.pdf)
