@@ -8,7 +8,7 @@
                 <td><b>▪ Apache Spark</b></td>
             </tr>
             <tr>
-                <td><b>▪ Tableau & Looker & QuickSight & PowerBi</b></td>
+                <td><b>▪ Tableau & Looker & QuickSight & PowerBI</b></td>
                 <td><b>▪ Google Analytics & BigQuery</b></td>
             </tr>
             <tr>
@@ -17,11 +17,11 @@
             </tr>
             <tr>
                 <td><b>▪ Apache Airflow</b></td>
-                <td><b>▪ Airbyte(ETL & ELT)</b></td>
+                <td><b>▪ Airbyte</b></td>
             </tr>
             <tr>
-                <td><b>▪ AWS & Snowflake</b></td>
-                <td><b>▪ Statistical Analysis(A/B Tests) & Automation</b></td>
+                <td><b>▪ AWS & Snowflake & Databricks</b></td>
+                <td><b>▪ Git, Docker</b></td>
             </tr>
         </table>
     </div>
