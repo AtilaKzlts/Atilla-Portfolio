@@ -13,11 +13,11 @@
                 <td><b>▪ Apache Spark</b></td>
             </tr>
             <tr>
-                <td><b>▪ Tableau & Looker & QuickSight & PowerBI</b></td>
-                <td><b>▪ Google Analytics & BigQuery</b></td>
+                <td><b>▪ Tableau & Looker & QuickSight </b></td>
+                <td><b>▪ Google Analytics, Google Ads & Amplitude </b></td>
             </tr>
             <tr>
-                <td><b>▪ SQL (PostgreSQL, SQL Server)</b></td>
+                <td><b>▪ SQL (PostgreSQL, SQL Server), BigQuery</b></td>
                 <td><b>▪ DBT</b></td>
             </tr>
             <tr>
