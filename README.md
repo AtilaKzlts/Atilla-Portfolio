@@ -26,7 +26,7 @@
             </tr>
             <tr>
                 <td><b>▪ AWS & Snowflake & Databricks</b></td>
-                <td><b>▪ Git, Docker</b></td>
+                <td><b>▪ Git, Docker, Linux</b></td>
             </tr>
         </table>
     </div>
