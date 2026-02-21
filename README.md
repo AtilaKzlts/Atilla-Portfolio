@@ -14,7 +14,7 @@
             </tr>
             <tr>
                 <td><b>▪ Tableau & Looker & QuickSight </b></td>
-                <td><b>▪ Google Analytics, Google Ads & Amplitude </b></td>
+                <td><b>▪ GA4, Google Ads & Amplitude </b></td>
             </tr>
             <tr>
                 <td><b>▪ SQL (PostgreSQL, SQL Server), BigQuery</b></td>
