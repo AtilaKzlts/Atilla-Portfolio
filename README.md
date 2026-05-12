@@ -2,7 +2,7 @@
     <img src="https://github.com/AtilaKzlts/ELT-Pipeline/blob/main/assets/Atilla-Portf.png" alt="Header Image" width="100%">
     <br><br>
     <div class="skills-list">
-        <a href="https://github.com/AtilaKzlts/SaaS/blob/main/assets/atila_kiziltas_cv.pdf" target="_blank">
+        <a href="https://github.com/AtilaKzlts/SaaS/blob/main/assets/atilla_kiziltas_cv.pdf" target="_blank">
             <img src="https://img.shields.io/badge/RESUME-Click%20To%20View-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
         </a>
         <br><br>
