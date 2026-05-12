@@ -14,7 +14,7 @@
             </tr>
             <tr>
                 <td><b>▪ Tableau & Looker & QuickSight </b></td>
-                <td><b>▪ GA4, Google Ads & Amplitude </b></td>
+                <td><b>▪ GA4, GTM, Google Ads </b></td>
             </tr>
             <tr>
                 <td><b>▪ SQL (PostgreSQL, SQL Server), BigQuery</b></td>
@@ -22,7 +22,7 @@
             </tr>
             <tr>
                 <td><b>▪ Apache Airflow</b></td>
-                <td><b>▪ Airbyte</b></td>
+                <td><b>▪ Amplitude </b></td>
             </tr>
             <tr>
                 <td><b>▪ AWS & Snowflake & Databricks</b></td>
