@@ -21,7 +21,7 @@
                 <td><b>▪ DBT</b></td>
             </tr>
             <tr>
-                <td><b>▪ Apache Airflow</b></td>
+                <td><b>▪ Apache Airflow, n8n</b></td>
                 <td><b>▪ Amplitude </b></td>
             </tr>
             <tr>
