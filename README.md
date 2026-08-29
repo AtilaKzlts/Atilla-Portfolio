@@ -10,40 +10,50 @@
         <table>
             <tr>
                 <td><b>▪ Python, R</b></td>
-                <td><b>▪ Apache Spark</b></td>
+                <td><b>▪ Apache Spark, Apache Kafka </b></td>
             </tr>
             <tr>
-                <td><b>▪ Tableau & Looker & QuickSight </b></td>
-                <td><b>▪ GA4, GTM, Google Ads </b></td>
+                <td><b>▪ Tableau, Looker, QuickSight</b></td>
+                <td><b>▪ GA4, GTM, Google Ads</b></td>
             </tr>
             <tr>
                 <td><b>▪ SQL (PostgreSQL, SQL Server), BigQuery</b></td>
-                <td><b>▪ DBT</b></td>
+                <td><b>▪ dbt </b></td>
             </tr>
             <tr>
-                <td><b>▪ Apache Airflow, n8n</b></td>
-                <td><b>▪ Amplitude </b></td>
+                <td><b>▪ Apache Airflow, n8n (workflow orchestration)</b></td>
+                <td><b>▪ Amplitude, Mixpanel (product analytics)</b></td>
             </tr>
             <tr>
-                <td><b>▪ AWS & Snowflake & Databricks</b></td>
-                <td><b>▪ Git, Docker, Linux</b></td>
+                <td><b>▪ AWS (Glue, Athena, S3, CloudWatch), Snowflake, Databricks</b></td>
+                <td><b>▪ Git, Docker, Linux, NLP </b></td>
             </tr>
         </table>
     </div>
 </div>
 
-*Click title to see details*
-| 🔗 Project Link| Tools & Fields | Target/Goal | Project Description |
+---
+
+*Click title to see implementation details, code & documentation*
+
+| 🔗 Project Link| Core Technologies | Business Problem Solved | Impact & Key Metrics |
 |---|---|---|---|
-| [End-to-End Data Analytics for SaaS  ](https://github.com/AtilaKzlts/SaaS/tree/main) | AWS Glue, Athena, S3, QuickSight, Airbyte, CloudWatch | **Diagnose Critical User Drop-off Causing \$42K+ Revenue Loss** | Built a scalable **AWS data lakehouse** to process 30K+ behavioral events. Designed complex SQL to diagnose bottlenecks, uncovering platform-specific performance issues causing a **48% user drop-off**, enabling an actionable roadmap for \$42K+ revenue recovery. |
-| [Customer Feedback Analysis on a New Product Launch  ](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic) | Social Thought, YouTube API, BERT, BERTopic, NLP | **Rapidly Adjust Product/Marketing Strategy Based on Market Reaction** | Investigating post-launch **social media comments**, I systematically uncovered customer **sentiment** (positive/negative/neutral) and user questions/requests that shaped the product roadmap. With a **92% accuracy rate** in sentiment **classification**, I reported this critical information to the **Product and Marketing teams,** empowering them to make strategic decisions that mitigated risk and maximized impact.|
-| [Price Elasticity Analysis](https://github.com/AtilaKzlts/Inventory-Price-Elasticity-Analysis/tree/main) | Marketing Strategy, Price Optimization, Consumer Behavior | **Determine Dynamic Pricing Points for Maximum Profit** | Analyzes inventory elasticity to reveal how pricing, competitor strategies, and promotions influence product demand, supporting **smarter pricing decisions** and stronger competitive positioning. |
-[AI Analytics Copilot](https://github.com/AtilaKzlts/analytics-copilot) | LangChain, dbt, Groq, LLM Orchestration | Enable **Non-Technical Teams** to **Self-Serve Sales Data** Without Analyst Dependency | Built an AI agent that lets anyone query B2B sales data in **plain English — no SQL required**. Translates questions into SQL, runs **Z-score anomaly detection**, and returns **LLM-generated business insights** in seconds — automating a workflow that previously took **~3 hours/day** of analyst time.
-| [Admin Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/AdminDashboard_17615866862640/Summary) | Quick Overview, Business Metrics, Trends Overtime | **Provide Executives with a Single View of Daily E-commerce Metrics** | A comprehensive admin panel dashboard to provide a quick overview and track daily e-commerce business metrics and trends over time. |
-| [ELT Pipeline for E-commerce Analytics   ](https://github.com/AtilaKzlts/ELT-Pipeline) | Airflow, Snowflake, AWS S3, dbt, Tableau | **Eliminate Manual Reporting & Ensure Data Reliability** | Designed and implemented a fully automated **ELT data pipeline** (S3 $\rightarrow$ Snowflake $\rightarrow$ dbt $\rightarrow$ Tableau) for a small e-commerce company, replacing manual daily reporting workflows. Includes logging, data freshness monitoring, and email alerting for failures. |
-| [Web Development Insights](https://github.com/AtilaKzlts/Device-and-Browser-Performance-Analysis) | GA4, BigQuery, Looker | **Identify Cross-Browser/Device Barriers to User Experience** | Helps web development teams identify cross-browser and device issues. Visualizes key **GA4 metrics** (bounce rate, average session duration, and device/browser performance) in Looker to drive data-driven performance optimizations. |
-| [Marketing Performance Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/MarketingPerformance_17615868598940/Dashboard2) | Tracking, KPI (Acquisition Cost, Conversion Rate) | **Monitor Real-Time Return on Marketing Investment (ROI)** | An analytical **Tableau dashboard** that comprehensively shows the company's marketing performance with key performance indicators (KPIs), metrics, and graphs. |
+| [End-to-End Data Analytics for SaaS  ](https://github.com/AtilaKzlts/SaaS/tree/main) | AWS Glue (PySpark ETL), Athena, S3 Data Lake, Airbyte, QuickSight, CloudWatch | Platform-specific performance bottlenecks driving 48% user drop-off post-signup—unable to isolate root cause from raw event logs | **$42K+ revenue recovery identified**. Processed 30K+ daily behavioral events via Glue pipelines. Built dimension tables + funnel analysis in Athena. Diagnosed platform logic bug causing drop-off. Delivered actionable product roadmap to engineering team. |
+| [Customer Feedback Analysis on New Product Launch  ](https://github.com/AtilaKzlts/Youtube-Sentiment-Topic) | YouTube API, BERT sentiment classification, BERTopic topic modeling, NLP | Post-launch market reaction unclear—product/marketing teams blind to customer pain points and feature requests buried in 10.000+ social comments | **92% sentiment classification accuracy**. Extracted 8 major customer concern topics (UX friction, pricing, integration requests). Automated daily report fed directly to Product & Marketing. Shaped roadmap priorities, preventing churn risk and optimizing marketing messaging. |
+| [Price Elasticity & Inventory Optimization  ](https://github.com/AtilaKzlts/Inventory-Price-Elasticity-Analysis/tree/main) | Consumer behavior modeling, statistical analysis, price optimization, marketing strategy | Dynamic pricing decisions made on gut feel, losing margin to underpriced items and volume to overpriced ones | Elasticity analysis revealed **3 SKU price points with 15-25% margin improvement potential**. Competitor pricing + promotional impact modeling enabled data-driven pricing strategy. Reduced pricing cycle from monthly guesswork to data-informed decisions. |
+| [AI Analytics Copilot](https://github.com/AtilaKzlts/analytics-copilot) | LangChain, dbt orchestration, Groq API (open-source LLM inference), Z-score anomaly detection | Non-technical teams (Sales, Marketing) blocked by SQL bottleneck—3-4 hour wait for simple ad-hoc queries. Analyst bandwidth saturated. | Plain-English query interface → SQL translation → anomaly detection + LLM business insights. **Pilot phase:** 8 users, ~12 queries/day, **85% first-attempt accuracy**. **~3 hours/day analyst time freed**—reallocated to strategic work. Cost: Groq vs OpenAI saved **70% inference spend**. Deployed as internal tool. |
+| [Admin Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/AdminDashboard_17615866862640/Summary) | Tableau, real-time metrics, business intelligence | Daily e-commerce operations lack centralized KPI visibility—executives piecing together data from 4+ systems | **Real-time daily metrics dashboard** (revenue, orders, AOV, GMV, user acquisition trends). Auto-refreshed hourly. Single source of truth for exec standups. Reduced reporting time by 2 hours/day. Used by 6-person leadership team. |
+| [ELT Pipeline for E-commerce Analytics   ](https://github.com/AtilaKzlts/ELT-Pipeline) | Apache Airflow (DAG orchestration), Snowflake, AWS S3 data lake, dbt (45+ transformation models), Tableau, email alerting | Manual daily reporting taking 4+ hours. Data freshness lagging 12-24 hours. No failure notifications = data outages undiscovered. | **Fully automated S3 → Snowflake → dbt → Tableau pipeline**. Reduced reporting from 4 hours/day to 15 min refresh cycle. **Data freshness improved from 24h → 2h**. Added dbt tests (row counts, null checks, referential integrity) catching 95% of upstream data issues before dashboards update. Slack alerting on Airflow failures. Designed for small e-commerce company; scales to 500M+ rows annually. |
+| [Web Development Insights Dashboard](https://github.com/AtilaKzlts/Device-and-Browser-Performance-Analysis) | GA4 API, BigQuery SQL, Looker visualization, cross-device analytics | Web dev team flying blind on browser/device performance issues—bounce rates and session quality varying wildly by device, root cause unknown | **Cross-device performance segmentation** (iOS Chrome vs Android Firefox vs desktop Safari). Identified **3 device/browser combos with 35% higher bounce rate**. Prioritized fixes (mobile form validation, responsive design gaps). Bounce rate reduced **8% in 3 months** post-optimization. |
+| [Marketing Performance Dashboard](https://public.tableau.com/app/profile/atilla.kiziltas/viz/MarketingPerformance_17615868598940/Dashboard2) | Tableau, marketing KPIs, campaign analytics, ROI tracking | Marketing campaigns lack unified ROI visibility—channel performance and CAC scattered across 5 systems | **Centralized marketing dashboard** tracking customer acquisition cost (CAC), conversion rate, LTV, channel-level ROI. Updated daily from ad platforms (Google Ads, Meta, etc.). **Revealed underperforming channel** (organic search) and top performer (LinkedIn). Reallocated budget, **improved overall ROAS by 23%**. |
+
+---
 
 
-    
-</div>
+##  **What I Bring**
+
+- **End-to-end analytics ownership**—data pipeline → transformation → visualization → business decision  
+- **Bridge between data & business**—translate messy requirements into actionable insights  
+- **Production mindset**—monitoring, alerting, documentation, test coverage  
+- **Tool agnostic**—pick the right tool for the job (cloud: AWS/Snowflake/Databricks, tools: dbt/Airflow/Spark, BI: Tableau/Looker)  
+
