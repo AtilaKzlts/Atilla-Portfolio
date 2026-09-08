@@ -17,7 +17,7 @@
                 <td><b>▪ GA4, GTM, Google Ads</b></td>
             </tr>
             <tr>
-                <td><b>▪ SQL (PostgreSQL, SQL Server), BigQuery</b></td>
+                <td><b>▪ SQL (PostgreSQL), BigQuery</b></td>
                 <td><b>▪ dbt </b></td>
             </tr>
             <tr>
